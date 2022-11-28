@@ -19,6 +19,12 @@ header {
 
 /* main */
 
+/* generics */
+
+img {
+    max-width: 100%;
+}
+
 /* jumbo */
 
 #jumbo {
@@ -39,6 +45,9 @@ header {
     margin: 0 auto;
 }
 
-.ok {
-    max-width: 100%;
+/* play */
+
+.custom-width-play {
+    width: 400px;
+    margin: 0 auto;
 }
