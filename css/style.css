@@ -6,6 +6,7 @@ body {
 
 header {
     min-height: 100px;
+    width: 100%;
 }
 
 .sony-logo {
@@ -13,7 +14,7 @@ header {
 }
 
 .play-logo {
-    width: 65px;
+    width: 60px;
 }
 
 /* main */
