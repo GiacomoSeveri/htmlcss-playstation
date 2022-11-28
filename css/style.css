@@ -1,6 +1,8 @@
 body {
-    background-color: #000;
+    background-color: rgb(180, 180, 180);
 }
+
+/* header */
 
 header {
     min-height: 100px;
@@ -14,3 +16,19 @@ header {
     width: 65px;
 }
 
+/* main */
+
+/* jumbo */
+
+#jumbo {
+    background: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: top;
+    padding: 30px;
+}
+
+.ciao {
+    width:  calc(280px + 1.5vw);
+    margin-top: 200px;
+}
