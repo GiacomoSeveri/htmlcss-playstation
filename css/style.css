@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+}
+
+header {
+    min-height: 100px;
+}
+
+.sony-logo {
+    width: 100px;
+}
+
+.play-logo {
+    width: 65px;
+}
+
