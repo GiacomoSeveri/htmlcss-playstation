@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(180, 180, 180);
+    background-color: #fff;
 }
 
 /* header */
@@ -28,7 +28,16 @@ header {
     padding: 30px;
 }
 
-.ciao {
+.returnal-logo {
     width:  calc(280px + 1.5vw);
     margin-top: 200px;
+}
+
+.custom-width {
+    width: 220px;
+    margin: 0 auto;
+}
+
+.ok {
+    max-width: 100%;
 }
