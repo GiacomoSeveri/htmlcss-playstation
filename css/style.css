@@ -66,3 +66,16 @@ img {
     width:  calc(280px + 1.5vw);
 }
 
+/* store */
+
+.padding-custom {
+    padding: 30px 0px 20px;
+}
+
+.custom-plus-width {
+    width: 500px;
+}
+
+.custom-plus-width-2 {
+    width: 520px;
+}
