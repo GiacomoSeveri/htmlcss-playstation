@@ -66,9 +66,3 @@ img {
     width:  calc(280px + 1.5vw);
 }
 
-/* play-4 */
-
-.custom-width-play {
-    width: 400px;
-    margin: 0 auto;
-}
