@@ -22,7 +22,7 @@ header {
 /* generics */
 
 img {
-    max-width: 100%;
+    max-width: 90%;
 }
 
 /* jumbo */
@@ -30,8 +30,8 @@ img {
 #jumbo {
     background: url(../img/jumbo-bg.png);
     background-repeat: no-repeat;
-    background-size: auto;
-    background-position: top;
+    background-size:cover;
+    background-position:center;
     padding: 30px;
 }
 
@@ -45,7 +45,28 @@ img {
     margin: 0 auto;
 }
 
-/* play */
+/* play-5 */
+
+.custom-width-play {
+    width: 400px;
+    margin: 0 auto;
+}
+
+/* new */
+
+#new-exit {
+    background: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    padding: 30px;
+}
+
+.two-logo {
+    width:  calc(280px + 1.5vw);
+}
+
+/* play-4 */
 
 .custom-width-play {
     width: 400px;
