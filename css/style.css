@@ -83,3 +83,13 @@ img {
 .bg-custom-store {
     background-color: #161C3B;
 }
+
+/* footer */
+
+.bg-custom-footer {
+    background-color: #00439C;
+}
+
+.custom-footer-width {
+    width: 160px;
+}
